@@ -698,3 +698,135 @@ hr{
     border-color: #8689E6;
 
   }
+
+
+  /* School's News Section ----------------------------------------------------------------*/
+
+
+  .article-container{
+    line-height: 15px;
+  }
+
+  .blue-container{
+    background-color: #370074;
+    height: 1000px;
+    width: 100%;
+  }
+  .button-cmnt{
+    display: flex;
+    flex-direction: row;
+    padding-left: 20px;
+    padding-top: 20px;
+  }
+  .btn{
+    font-weight: bold;
+    border-style: none;
+    height: 60px;
+    width: 200px;
+  }
+  .bottom{
+    padding-bottom: 30px;
+  }
+  .comment{
+    margin-top: 15px;
+    margin-left: 15px;
+    color: #370074;
+  }
+  .comments-h3{
+    line-height: 25px;
+  margin-top: 5px;
+  padding-left: 20px;
+  color: #370074;
+  }
+  .comments-h6{
+    padding-left: 20px;
+  margin-top: 20px;
+  padding-bottom: 30px;
+  padding-right: 50px;
+  color: #370074;
+  }
+  .education-button{
+    background-color: #370074;
+    color: white;
+    font-weight: bold;
+    border-style: none;
+    font-size: 12px;
+    width: 130px;
+    height: 40px;
+  }
+  .grey-container{
+    background-color: #E0E1E6;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 800px;
+    width: 1350px;
+    display: flex;
+    flex-direction: row;
+
+  }
+  .image-container-news{
+    position: absolute;
+    bottom: 20px;
+    left: 120px;
+  }
+  .news-text{
+    margin-top: 8px;
+      margin-left: 30px;
+      width: 50%;
+      color: #370074;
+  }
+  .news-image{
+    height: 135px;
+    width: 135px;
+    margin-left: 44px;
+
+  }
+  .news-box{
+    display: flex;
+    flex-direction: row;
+    height: 135px;
+  }
+  .news-container{
+    position: absolute;
+    bottom: 45px;
+    right: 120px;
+  }
+  .news-hr{
+    border: 0;
+    width: 85%;
+    height: 1.5px;
+    background-color: #E0E1E6;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .our-article{
+    font-size: 1.17em;
+    color: #FC18B0;
+
+  }
+  .recent-news{
+    background-color: #FC18B0;
+    color: white;
+
+  }
+
+
+  .school-news{
+    color: #370074;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 0;
+  }
+  .top{
+    padding-top: 30px;
+  }
+  .white-div{
+    background-color: white;
+    width: 380px;
+  }
+  .white-news-div{
+    background-color: white;
+    width: 95%;
+  }
