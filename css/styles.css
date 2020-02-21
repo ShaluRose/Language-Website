@@ -754,10 +754,14 @@ hr{
     width: 130px;
     height: 40px;
   }
+  .education-button:hover{
+    background-color: #FC18B0;
+    color: white;
+  }
   .grey-container{
     background-color: #E0E1E6;
     position: relative;
-    top: 50%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     height: 800px;
@@ -806,10 +810,22 @@ hr{
     color: #FC18B0;
 
   }
+  .popular-news{
+    color: #FC18B0;
+    background-color: #E0E1E6;
+  }
+  .popular-news:hover{
+    color: #FC18B0;
+    background-color: white;
+  }
   .recent-news{
     background-color: #FC18B0;
     color: white;
 
+  }
+  .recent-news:hover{
+    background-color: white;
+    color: #FC18B0;
   }
 
 
