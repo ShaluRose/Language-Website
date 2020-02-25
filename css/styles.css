@@ -876,6 +876,7 @@ hr{
   .subscribe{
     color: #FFC300;
   }
+
   .subscribe-para{
     color: white;
   }
@@ -892,3 +893,10 @@ hr{
    font-weight: bold;
    color: white;
   }
+  .subs-button:hover{
+    background-color: white;
+    color: #FC18B0;
+  }
+
+
+  /*Download Section---------------------------------------------------------------------------------*/
