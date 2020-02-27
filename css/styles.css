@@ -900,3 +900,97 @@ hr{
 
 
   /*Download Section---------------------------------------------------------------------------------*/
+
+
+  .apple{
+    background-color: #FC18B0;
+    margin-right: 20px;
+  }
+  .play{
+    background-color: #370074;
+  }
+  .buttons{
+    border-style: none;
+    height: 80px;
+    color: white;
+    font-weight: bold;
+    padding: 0 20px 0 20px;
+    margin-top: 40px;
+  }
+
+  .download-container{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 80px;
+    left: 200px;
+    width: 1080px;
+  }
+  .download-h3{
+    color: #FC18B0;
+  }
+  .download-box{
+    display: flex;
+    flex-direction: row;
+  }
+  .download-h2{
+    color: #370074;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 0;
+  }
+  .download-heading{
+
+      padding-left: 20px;
+      padding-top: 5px;
+      margin-bottom: 0;
+
+  }
+  .download-text-container{
+    padding-top: 20px;
+    padding-left: 100px;
+  }
+  .download-hr{
+    border: 0;
+
+      width: 95%;
+      height: 1.5px;
+      background-color: #E0E1E6;
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+  .download-h4{
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: bold;
+    color: #370074;
+  }
+  .download-wrapper{
+    position: relative;
+  }
+  .download-main-wrapper{
+    background-color: white;
+    width: 100%;
+    height: 900px;
+  }
+  .mobile{
+    width: 450px;
+    height: 700px;
+  }
+  .dwn-txt{
+    margin-top: 0;
+    width: 336px;
+    height: 50px;
+
+
+  }
+  .yellow{
+    background-color: #FFC300;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    font-size: 21px;
+  }
